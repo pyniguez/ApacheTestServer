@@ -15,3 +15,7 @@ access host of apache server using your local computer.
 Marc: I have edited the index.html.
 
 For your approval.
+
+***
+
+Paolo: +1!!!
