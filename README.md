@@ -11,3 +11,7 @@ git clone git@github.com:pyniguez/ApacheTestServer.git
 3. restart apache server (service apache2 restart)
 access host of apache server using your local computer.
 
+***
+Marc: I have edited the index.html.
+
+For your approval.
