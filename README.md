@@ -15,6 +15,7 @@ access host of apache server using your local computer.
 5. git add the file, second page the commit it to remote repo
 
 Seek approval from each other  on 
+6. Sample of git add
 
 
 ***
