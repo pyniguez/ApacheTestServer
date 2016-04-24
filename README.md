@@ -1,27 +1,21 @@
 # ApacheTestServer
+This is a test server...
 
-> version 2.4 added intructions to update index.html
-> >Removed back_index.html
-> 
-> >Made revisions to index.html
-
-1. Create a remote repo for Apache serber amd pull request to local.
+# Index.html
+1. Create a remote repo for Apache server and pull request to local.
+```
 git clone git@github.com:pyniguez/ApacheTestServer.git
+```
 
-2. copy index.html to /var/www/html directory of your apache VMserver. Use scp to do this task.
+2. copy index.html to ```/var/www/html``` directory of your apache VMserver. Use scp to do this task.
 
-3. restart apache server (service apache2 restart)
-access host of apache server using your local computer.
+3. restart apache server. ```service apache2 restart```
+4. access host of apache server using your local computer.
 
-4. login as collegue host and add create a link that will sent you to next page, 
+5. login as collegue host and add create a link that will sent you to next page, 
 
-5. git add the file, second page the commit it to remote repo
+6. git add the file. ```git add <file>```
 
-Seek approval from each other  on 
+7. commit it to remote repo
 
-***
-Marc: I have edited the index.html.
 
-For your approval.
-
-***
