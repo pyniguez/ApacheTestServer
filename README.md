@@ -19,3 +19,6 @@ git clone git@github.com:pyniguez/ApacheTestServer.git
 7. commit it to remote repo
 
 
+# hosts.allow and hosts.deny
+
+1. copy hosts.allow or hosts.deny in ```/etc/``` directory
